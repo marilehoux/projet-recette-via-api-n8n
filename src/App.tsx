@@ -60,7 +60,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 p-6">
+    <div className="min-h-screen bg-white p-6">
       <header className="max-w-6xl mx-auto mb-8">
         <div className="flex items-center gap-3">
           <CookingPot className="w-8 h-8 text-gray-700" />

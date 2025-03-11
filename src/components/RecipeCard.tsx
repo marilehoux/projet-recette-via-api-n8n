@@ -11,7 +11,7 @@ export function RecipeCard({ recipe, onClick }: RecipeCardProps) {
   return (
     <div 
       onClick={onClick}
-      className="bg-white rounded-lg shadow-md overflow-hidden cursor-pointer transform transition-transform hover:scale-105"
+      className="bg-background rounded-lg shadow-md overflow-hidden cursor-pointer transform transition-transform hover:scale-105"
     >
     
       <div className="p-4">
